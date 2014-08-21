@@ -2,7 +2,7 @@
 <module>
 
     <inherits name='org.litesoft.CommonFoundation'/>
-    <inherits name='org.litesoft.Externalization'/>
+    <inherits name='org.litesoft.externalization.Externalization'/>
 
     <source path="client"/>
 

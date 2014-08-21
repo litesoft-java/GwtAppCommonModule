@@ -17,6 +17,8 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="module" module-name="LiteSoftDeferred" />
+    <orderEntry type="module" module-name="LiteSoftExternalization" />
     <orderEntry type="module" module-name="LiteSoftCommonFoundation" />
     <orderEntry type="module-library">
       <library>
@@ -38,6 +40,7 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="GWT_user" level="application" />
   </component>
 </module>
 

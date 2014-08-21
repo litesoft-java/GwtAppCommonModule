@@ -7,6 +7,7 @@ resources:
 - LICENSE
 
 dependencies:
+- ../LiteSoftDeferred
 - ../LiteSoftExternalization
 - ../LiteSoftCommonFoundation
 
