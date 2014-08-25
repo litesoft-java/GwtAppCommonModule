@@ -6,10 +6,10 @@ resources:
 - src|**.xml
 - LICENSE
 
-dependencies:
+compiledependencies:
 - ../LiteSoftDeferred
 - ../LiteSoftExternalization
 - ../LiteSoftCommonFoundation
 
 compileclasspath:
-- libs|**.jar
+- libs/client|**.jar
